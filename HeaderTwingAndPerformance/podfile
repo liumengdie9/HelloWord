@@ -1,0 +1,6 @@
+platform :ios, "6.0"
+pod "AFNetworking"  
+pod "SDWebImage"
+pod “JSONModel”
+pod "GDataXML-HTML", "~> 1.2.0"
+pod “MJRefresh”
