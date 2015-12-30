@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8D19A1D4151858A37778021D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 521F7B7A49036D6123F0DBD4 /* libPods.a */; };
+		95B5A2061C33B60700980221 /* Controller11.m in Sources */ = {isa = PBXBuildFile; fileRef = 95B5A2051C33B60700980221 /* Controller11.m */; };
 		95E6BADE1C12D49E00856288 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 95E6BADD1C12D49E00856288 /* main.m */; };
 		95E6BAE11C12D49E00856288 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 95E6BAE01C12D49E00856288 /* AppDelegate.m */; };
 		95E6BAE41C12D49E00856288 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95E6BAE31C12D49E00856288 /* ViewController.m */; };
@@ -52,6 +53,8 @@
 /* Begin PBXFileReference section */
 		3442F0F2135A481630E43F5D /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		521F7B7A49036D6123F0DBD4 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		95B5A2041C33B60700980221 /* Controller11.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Controller11.h; sourceTree = "<group>"; };
+		95B5A2051C33B60700980221 /* Controller11.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Controller11.m; sourceTree = "<group>"; };
 		95E6BAD91C12D49E00856288 /* HeaderTwingAndPerformance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeaderTwingAndPerformance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95E6BADD1C12D49E00856288 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		95E6BADF1C12D49E00856288 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -178,6 +181,8 @@
 				95E6BB1F1C12E2EC00856288 /* LMDModel.m */,
 				95E6BB211C12ECB900856288 /* LMDCell.h */,
 				95E6BB221C12ECB900856288 /* LMDCell.m */,
+				95B5A2041C33B60700980221 /* Controller11.h */,
+				95B5A2051C33B60700980221 /* Controller11.m */,
 				95E6BB231C12ECB900856288 /* LMDCell.xib */,
 				95E6BAE21C12D49E00856288 /* ViewController.h */,
 				95E6BAE31C12D49E00856288 /* ViewController.m */,
@@ -418,6 +423,7 @@
 				95E6BB341C13DCDC00856288 /* perCell.m in Sources */,
 				95E6BB201C12E2EC00856288 /* LMDModel.m in Sources */,
 				95E6BB171C12D95D00856288 /* di.m in Sources */,
+				95B5A2061C33B60700980221 /* Controller11.m in Sources */,
 				95E6BADE1C12D49E00856288 /* main.m in Sources */,
 				95E6BB2E1C13315700856288 /* DetailModel.m in Sources */,
 				95E6BB241C12ECB900856288 /* LMDCell.m in Sources */,
